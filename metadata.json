@@ -1,0 +1,8 @@
+{
+  "uuid": "ssh-shortcut@0ct0puce.com",
+  "name": "SSH Shortcut",
+  "description": "Button in top panel that open a new terminal that automatically log you to an ssh session that your previously configured in the parameters.",
+  "version": 1,
+  "shell-version": ["42"],
+  "url": "https://github.com/0CT0PUCE-LOG/gnome-shell-extension-ssh-shortcut"
+}
